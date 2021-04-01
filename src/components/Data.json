@@ -1,0 +1,19 @@
+[
+  {
+    "type":"Basic",
+    "price": 199.99,
+    "features":["500gb Storage","2 Users Allowed","Send up to 3GB"],
+    "id" : 1
+  },
+  {"type":"Professional",
+    "price": 249.99,
+    "features":["1TB Storage","5 Users Allowed","Send up to 10GB"],
+    "id" : 2
+  },
+  {"type":"Master",
+    "price": 349.99,
+    "features":["2TB Storage","10 Users Allowed","Send up to 20GB"],
+    "id" : 3
+  }
+]
+
