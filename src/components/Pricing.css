@@ -59,3 +59,12 @@
 .pricing-container input[type='checkbox']:checked ~ .check:before {
   transform: translateX(40px);
 }
+
+
+@media (max-width: 610px) {
+
+  .pricing-container {
+    margin-top: 2rem;
+    row-gap: 2rem;
+  }
+}
